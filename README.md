@@ -11,7 +11,7 @@ This repository is about knowledge sharing, learning new stuffs and growing with
                   </tr>
             </thead>
             <tbody>
-              <td>1</td><td>OSS Process Wishlis</td><td>https://bit.ly/34n9Ozb</td></tr>
+              <td>1.</td><td>OSS Process Wishlis</td><td>https://bit.ly/34n9Ozb</td></tr>
              </tbody>
         </table>
 </smart-table>
