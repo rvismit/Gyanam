@@ -1,5 +1,5 @@
 # Gyanam
-This repository is about knowledge sharing, learning new stuffs and growing with the community. 
+This repository is about Learn | Hack | Share | Repeat. 
 
 <smart-table>
         <table>
