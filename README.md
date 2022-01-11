@@ -13,6 +13,7 @@ This repository is about Learn | Hack | Share | Repeat.
             </thead>
             <tbody>
               <td>1.</td><td>OSS Process Wishlis</td><td>https://bit.ly/34n9Ozb</td></tr>
+              <td>2.</td><td>Secure Development Series</td><td>https://bit.ly/3fcKCNW</td></tr>
              </tbody>
         </table>
 </smart-table>
