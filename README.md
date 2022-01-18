@@ -14,7 +14,7 @@ This repository is about Learn | Hack | Share | Repeat.
             <tbody>
               <td>1.</td><td>OSS Process Wishlist</td><td>https://bit.ly/34n9Ozb</td></tr>
               <td>2.</td><td>Secure Development Series</td><td>https://bit.ly/3fcKCNW</td></tr>
-              <td>3.</td><td>Abusing Google Play Billing For Fun And Unlimited Credits</td><td>https://bit.ly/3fcKCNW</td></tr>
+              <td>3.</td><td>Abusing Google Play Billing For Fun And Unlimited Credits</td><td>https://bit.ly/33JnCUi</td></tr>
              </tbody>
         </table>
 </smart-table>
