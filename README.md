@@ -1,6 +1,6 @@
 # Gyanam
 This repository is about Learn | Hack | Share | Repeat. 
-<br><br>Updates on Every Tuesday :)<br>
+<br><br>Updates on Every Tuesday :)<br> <br>
 #TechieTuesday
 <br>
 <smart-table>
