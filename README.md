@@ -18,6 +18,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>3.</td><td>Abusing Google Play Billing For Fun And Unlimited Credits</td><td>https://bit.ly/33JnCUi</td></tr>
               <td>4.</td><td>Introducing a new phishing technique for compromising Office 365 accounts</td><td>https://bit.ly/3rNt2Wx</td></tr>
               <td>5.</td><td>Useful LDAP queries for Windows Active Directory pentesting</td><td>https://bit.ly/3481JhR</td></tr>
+              <td>6.</td><td>Common Misconfigurations in CISCO Phone Systems</td><td>https://bit.ly/3361raJ</td></tr>
              </tbody>
         </table>
 </smart-table>
