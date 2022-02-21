@@ -20,6 +20,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>5.</td><td>Useful LDAP queries for Windows Active Directory pentesting</td><td>https://bit.ly/3481JhR</td></tr>
               <td>6.</td><td>Common Misconfigurations in CISCO Phone Systems</td><td>https://bit.ly/3361raJ</td></tr>
               <td>7.</td><td>Scraping search APIs - Depth first style</td><td>https://bit.ly/3JKsfgD</td></tr>
+              <td>8.</td><td>Fault Injection Reference Model</td><td>https://bit.ly/3pqZkGH</td></tr>
              </tbody>
         </table>
 </smart-table>
