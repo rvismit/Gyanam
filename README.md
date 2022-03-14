@@ -23,6 +23,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>8.</td><td>Fault Injection Reference Model</td><td>https://bit.ly/3pqZkGH</td></tr>
               <td>9.</td><td>The DNS over HTTPS (DoH) Mess</td><td>https://bit.ly/3tfAQRL</td></tr>
               <td>10.</td><td>kdigger: a Context Discovery Tool for Kubernetes</td><td>https://bit.ly/3HPg5S7</td></tr>
+              <td>11.</td><td>Understanding Zigbee and Wireless Mesh Networking</td><td>https://bit.ly/3J7eYi2</td></tr>
              </tbody>
         </table>
 </smart-table>
