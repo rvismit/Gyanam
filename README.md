@@ -25,6 +25,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>10.</td><td>kdigger: a Context Discovery Tool for Kubernetes</td><td>https://bit.ly/3HPg5S7</td></tr>
               <td>11.</td><td>Understanding Zigbee and Wireless Mesh Networking</td><td>https://bit.ly/3J7eYi2</td></tr>
               <td>12.</td><td>Shadow Attacks</td><td>https://bit.ly/3tqXXtU</td></tr>
+              <td>13.</td><td>Bug hunting with static analysis tools</td><td>https://bit.ly/3wKTLHw</td></tr>
              </tbody>
         </table>
 </smart-table>
