@@ -27,6 +27,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>12.</td><td>Shadow Attacks</td><td>https://bit.ly/3tqXXtU</td></tr>
               <td>13.</td><td>Bug hunting with static analysis tools</td><td>https://bit.ly/3wKTLHw</td></tr>
               <td>14.</td><td>ARM Assembly Basics</td><td>https://bit.ly/3j2d5b0</td></tr>
+              <td>15.</td><td>Pwning a Server using Markdown</td><td>https://bit.ly/3KwPQ5d</td></tr>
              </tbody>
         </table>
 </smart-table>
