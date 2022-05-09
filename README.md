@@ -30,6 +30,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>15.</td><td>Pwning a Server using Markdown</td><td>https://bit.ly/3KwPQ5d</td></tr>
               <td>16.</td><td>Pentesting CISCO ACI: LLDP Mishandling</td><td>https://bit.ly/3KVfgJT</td></tr>
               <td>17.</td><td>JWT Security Issues</td><td>https://bit.ly/3LhI4fO</td></tr>
+              <td>18.</td><td>QEMU Case Study</td><td>https://bit.ly/3FtnQgZ</td></tr>
              </tbody>
         </table>
 </smart-table>
