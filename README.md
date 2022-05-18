@@ -31,7 +31,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>16.</td><td>Pentesting CISCO ACI: LLDP Mishandling</td><td>https://bit.ly/3KVfgJT</td></tr>
               <td>17.</td><td>JWT Security Issues</td><td>https://bit.ly/3LhI4fO</td></tr>
               <td>18.</td><td>QEMU Case Study</td><td>http://phrack.org/issues/70/5.html#article</td></tr>
-              <td>19.</td><td>Kubernetes and HostPath, a Love-Hate Relationship</td>bit.ly/3yOv3a2</td></tr>
+              <td>19.</td><td>Kubernetes and HostPath, a Love-Hate Relationship</td><td>bit.ly/3yOv3a2</td></tr>
              </tbody>
         </table>
 </smart-table>
