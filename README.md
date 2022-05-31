@@ -33,6 +33,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>18.</td><td>QEMU Case Study</td><td>http://phrack.org/issues/70/5.html#article</td></tr>
               <td>19.</td><td>Kubernetes and HostPath, a Love-Hate Relationship</td><td>https://bit.ly/3yOv3a2</td></tr>
               <td>20.</td><td>XSS With Hoisting</td><td>https://bit.ly/3LHNMHf</td></tr>
+              <td>21.</td><td>WordPress Plugin Security Testing Cheat Sheet</td><td>https://bit.ly/3PRDKXd</td></tr>
              </tbody>
         </table>
 </smart-table>
