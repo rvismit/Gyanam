@@ -34,6 +34,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>19.</td><td>Kubernetes and HostPath, a Love-Hate Relationship</td><td>https://bit.ly/3yOv3a2</td></tr>
               <td>20.</td><td>XSS With Hoisting</td><td>https://bit.ly/3LHNMHf</td></tr>
               <td>21.</td><td>WordPress Plugin Security Testing Cheat Sheet</td><td>https://bit.ly/3PRDKXd</td></tr>
+              <td>22.</td><td>IoT Hacking - The use of radio attacks during Red Team Exercise</td><td>https://bit.ly/3O080O6</td></tr>
              </tbody>
         </table>
 </smart-table>
