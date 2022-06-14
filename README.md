@@ -35,6 +35,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>20.</td><td>XSS With Hoisting</td><td>https://bit.ly/3LHNMHf</td></tr>
               <td>21.</td><td>WordPress Plugin Security Testing Cheat Sheet</td><td>https://bit.ly/3PRDKXd</td></tr>
               <td>22.</td><td>IoT Hacking - The use of radio attacks during Red Team Exercise</td><td>https://bit.ly/3O080O6</td></tr>
+              <td>23.</td><td>You Cannot Detect Techniques in the Execution Tactic! And What To Do Instead</td><td>https://bit.ly/3zDza9y</td></tr>
              </tbody>
         </table>
 </smart-table>
