@@ -37,6 +37,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>22.</td><td>IoT Hacking - The use of radio attacks during Red Team Exercise</td><td>https://bit.ly/3O080O6</td></tr>
               <td>23.</td><td>You Cannot Detect Techniques in the Execution Tactic! And What To Do Instead</td><td>https://bit.ly/3zDza9y</td></tr>
               <td>24.</td><td>HTTP/2: The Sequel is Always Worse</td><td>https://bit.ly/39C2Wkp</td></tr>
+              <td>25.</td><td>Hacking an AWS hosted Kubernetes and Failing</td><td>https://bit.ly/3nmw9mA</td></tr>
              </tbody>
         </table>
 </smart-table>
