@@ -38,6 +38,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>23.</td><td>You Cannot Detect Techniques in the Execution Tactic! And What To Do Instead</td><td>https://bit.ly/3zDza9y</td></tr>
               <td>24.</td><td>HTTP/2: The Sequel is Always Worse</td><td>https://bit.ly/39C2Wkp</td></tr>
               <td>25.</td><td>Hacking an AWS hosted Kubernetes and Failing</td><td>https://bit.ly/3nmw9mA</td></tr>
+              <td>26.</td><td>Cookie Tossing</td><td>https://bit.ly/3AsZtj8</td></tr>
              </tbody>
         </table>
 </smart-table>
