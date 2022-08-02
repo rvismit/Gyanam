@@ -41,6 +41,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>26.</td><td>Cookie Tossing</td><td>https://bit.ly/3AsZtj8</td></tr>
               <td>27.</td><td>STATIC TAINT ANALYSIS USING BINARY NINJA</td><td>https://bit.ly/3Iva130</td></tr>
               <td>28.</td><td>Lock Picking</td><td>https://bit.ly/3RHRkxp</td></tr>
+              <td>29-30.</td><td>Ngrev(Tool)</td><td>https://bit.ly/3zPfi2D</td></tr>
              </tbody>
         </table>
 </smart-table>
