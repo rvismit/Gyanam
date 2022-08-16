@@ -43,6 +43,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>28.</td><td>Lock Picking</td><td>https://bit.ly/3RHRkxp</td></tr>
               <td>29-30.</td><td>Ngrev(Tool)</td><td>https://bit.ly/3zPfi2D</td></tr>
               <td>31.</td><td>Thalos(Tool)</td><td>https://bit.ly/3BOfpwZ</td></tr>
+              <td>32.</td>How a good idea turns into a SPF (Security Product Failure)<td></td><td>https://bit.ly/3Cq6BxN</td></tr>
              </tbody>
         </table>
 </smart-table>
