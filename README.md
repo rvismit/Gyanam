@@ -45,6 +45,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>31.</td><td>Thalos(Tool)</td><td>https://bit.ly/3BOfpwZ</td></tr>
               <td>32.</td><td>How a good idea turns into a SPF (Security Product Failure)</td><td>https://bit.ly/3Cq6BxN</td></tr>
               <td>33.</td><td>Authentication coercion of the Windows “Server” service</td><td>https://bit.ly/3KaL5yJ</td></tr>
+              <td>34.-35.</td><td>A proposal for a new amateur radio net</td><td>https://bit.ly/3RVjZyr</td></tr>
              </tbody>
         </table>
 </smart-table>
