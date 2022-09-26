@@ -48,6 +48,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>34.-35.</td><td>A proposal for a new amateur radio net</td><td>https://bit.ly/3RVjZyr</td></tr>
               <td>36.</td><td>DEVELOPING CTF'S</td><td>https://bit.ly/3xdSA2A</td></tr>
               <td>37.</td><td>Memory forensics with Kernel-level ASLR</td><td>https://bit.ly/3eVAFHz</td></tr>
+              <td>38.</td><td>Reversing the Pokit Meter's Bluetooth Protocol</td><td>https://bit.ly/3RhJmtc</td></tr>
              </tbody>
         </table>
 </smart-table>
