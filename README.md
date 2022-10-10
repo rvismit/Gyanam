@@ -49,6 +49,8 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>36.</td><td>DEVELOPING CTF'S</td><td>https://bit.ly/3xdSA2A</td></tr>
               <td>37.</td><td>Memory forensics with Kernel-level ASLR</td><td>https://bit.ly/3eVAFHz</td></tr>
               <td>38.</td><td>Reversing the Pokit Meter's Bluetooth Protocol</td><td>https://bit.ly/3RhJmtc</td></tr>
+              <td>39.</td><td>GCP Penetration Testing</td><td>https://bit.ly/3Cm6jWQ</td></tr>
+              <td>40.</td><td>Achieving DevSecOps with Open-Source Tools</td><td>https://bit.ly/3SQddL5</td></tr>
              </tbody>
         </table>
 </smart-table>
