@@ -51,6 +51,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>38.</td><td>Reversing the Pokit Meter's Bluetooth Protocol</td><td>https://bit.ly/3RhJmtc</td></tr>
               <td>39.</td><td>GCP Penetration Testing</td><td>https://bit.ly/3Cm6jWQ</td></tr>
               <td>40.</td><td>Achieving DevSecOps with Open-Source Tools</td><td>https://bit.ly/3SQddL5</td></tr>
+              <td>41.</td><td>Proof of Being Forgotten: Verified Privacy Protection in Confidential Computing Platform</td><td>https://bit.ly/3CF5zMO</td></tr>
              </tbody>
         </table>
 </smart-table>
