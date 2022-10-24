@@ -52,6 +52,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>39.</td><td>GCP Penetration Testing</td><td>https://bit.ly/3Cm6jWQ</td></tr>
               <td>40.</td><td>Achieving DevSecOps with Open-Source Tools</td><td>https://bit.ly/3SQddL5</td></tr>
               <td>41.</td><td>Proof of Being Forgotten: Verified Privacy Protection in Confidential Computing Platform</td><td>https://bit.ly/3CF5zMO</td></tr>
+              <td>42.</td><td>Building a high throughput low-latency PCIe based SDR</td><td>https://bit.ly/3smTcAj</td></tr>
              </tbody>
         </table>
 </smart-table>
