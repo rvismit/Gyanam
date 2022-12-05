@@ -57,6 +57,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>44.</td><td>Telephone Signalling Methods</td><td>https://bit.ly/3WHGSs7</td></tr>
               <td>45.</td><td>GraphQL Voyager as a tool for API security testing</td><td>https://bit.ly/3hIHwFR</td></tr>
               <td>46.</td><td>Conducting OSINT on Github</td><td>https://bit.ly/3gvnsX7</td></tr>
+              <td>47.</td><td>DNSMonster: passive DNS monitoring</td><td>https://bit.ly/3Usfb4k</td></tr>
              </tbody>
         </table>
 </smart-table>
