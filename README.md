@@ -59,6 +59,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>46.</td><td>Conducting OSINT on Github</td><td>https://bit.ly/3gvnsX7</td></tr>
               <td>47.</td><td>DNSMonster: passive DNS monitoring</td><td>https://bit.ly/3Usfb4k</td></tr>
               <td>48.</td><td>ARMX Firmware Emulation Framework</td><td>https://bit.ly/3HMzHtV</td></tr>
+              <td>49.</td><td>0-Day Hunting</td><td>https://bit.ly/3Vc0OS7</td></tr>
              </tbody>
         </table>
 </smart-table>
