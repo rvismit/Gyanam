@@ -60,6 +60,7 @@ This repository is about Learn | Hack | Share | Repeat.
               <td>47.</td><td>DNSMonster: passive DNS monitoring</td><td>https://bit.ly/3Usfb4k</td></tr>
               <td>48.</td><td>ARMX Firmware Emulation Framework</td><td>https://bit.ly/3HMzHtV</td></tr>
               <td>49.</td><td>0-Day Hunting</td><td>https://bit.ly/3Vc0OS7</td></tr>
+              <td>50.</td><td>Car Hacking: For Poories</td><td>https://bit.ly/3Wt8h0s</td></tr>
              </tbody>
         </table>
 </smart-table>
